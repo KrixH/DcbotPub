@@ -12,6 +12,11 @@
 
 
 
+# Eddigi hibák
+
+  - [Eddig egy hibabejelntés sem érkezett] [A hibajelentő neve itt fog megjelenni]
+
+
 
 
 #### Építési forrás
